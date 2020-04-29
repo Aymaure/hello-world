@@ -1,2 +1,2 @@
 # hello-world
-Just another repository
+Il était une fois au pays des merveilles une souricière.
